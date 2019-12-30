@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Taghi
+Comment=TGI P2P Cryptocurrency
+Comment[fr]=TGI, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=TGI, eşten eşe kriptografik sanal para birimi
+Exec=taghi-qt %u
+Terminal=false
+Type=Application
+Icon=taghi128
+MimeType=x-scheme-handler/taghi;
+Categories=Office;Finance;

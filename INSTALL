@@ -1,0 +1,9 @@
+Building Taghi
+
+See doc/readme-qt.rst for instructions on building Taghi QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Taghi.
+
+See doc/build-*.txt for instructions on building taghid,
+the intended-for-services, no-graphical-interface, reference
+implementation of Taghi.
